@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-09-02 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-02 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-09-02 |
 | [Regional Footprint](./practice/sql/regional-footprint) | SQL | Easy | 2026-09-02 |
