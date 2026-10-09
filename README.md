@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-01 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-08-29 |
 
 <!-- datadriven:index:end -->
