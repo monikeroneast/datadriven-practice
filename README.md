@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-12 |
 | [Everything Said Twice](./practice/python/everything-said-twice) | Python | Easy | 2026-09-02 |
 | [Schema Checker](./practice/python/schema-checker) | Python | Easy | 2026-09-02 |
 | [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-09-02 |
