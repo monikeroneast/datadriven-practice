@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-09-02 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-09-02 |
 | [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-09-02 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-02 |
