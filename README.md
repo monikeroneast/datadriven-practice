@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-09-29 |
 | [The Bug Spotter](./practice/python/the-bug-spotter) | Python | Easy | 2026-09-29 |
 | [High Water Mark](./practice/python/high-water-mark) | Python | Easy | 2026-09-29 |
 | [Explode List](./practice/python/explode-list) | Python | Easy | 2026-09-29 |
