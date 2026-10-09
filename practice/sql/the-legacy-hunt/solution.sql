@@ -1,0 +1,4 @@
+-- SELECT * FROM data_pipes LIMIT 5
+SELECT DISTINCT DATE(CAST(start_at AS DATETIME)) AS run_date
+FROM data_pipes
+WHERE DATE(CAST(start_at AS DATETIME)) < '2026-05-01'

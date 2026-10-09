@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-12 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-12 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-09-12 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-09-12 |
