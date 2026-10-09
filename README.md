@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-09-29 |
 | [All Told](./practice/python/all-told) | Python | Easy | 2026-09-29 |
 | [The Mirror Test](./practice/python/the-mirror-test) | Python | Easy | 2026-09-29 |
 | [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-09-12 |
