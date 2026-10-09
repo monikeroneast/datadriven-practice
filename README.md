@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-09-12 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-09-12 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-12 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-12 |
