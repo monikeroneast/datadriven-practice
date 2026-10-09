@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-09-12 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-12 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-12 |
 | [Everything Said Twice](./practice/python/everything-said-twice) | Python | Easy | 2026-09-02 |
