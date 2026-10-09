@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Null Counter](./practice/python/null-counter) | Python | Easy | 2026-09-29 |
 | [Never Walk Alone](./practice/python/never-walk-alone) | Python | Easy | 2026-09-29 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-09-29 |
 | [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-09-29 |
