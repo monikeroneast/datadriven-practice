@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-10-09 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-09 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-10-09 |
 | [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-10-09 |
