@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-10-09 |
 | [Prime Real Estate](./practice/sql/prime-real-estate) | SQL | Easy | 2026-10-09 |
 | [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-09 |
 | [Low-Engagement Sessions](./practice/sql/low-engagement-sessions) | SQL | Medium | 2026-10-09 |
