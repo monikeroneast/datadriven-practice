@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-09-01 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-09-01 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-09-01 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-01 |
