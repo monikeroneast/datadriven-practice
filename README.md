@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Value Count](./practice/python/value-count) | Python | Easy | 2026-09-29 |
 | [Row Aggregates](./practice/python/row-aggregates) | Python | Medium | 2026-09-29 |
 | [Null Counter](./practice/python/null-counter) | Python | Easy | 2026-09-29 |
 | [Never Walk Alone](./practice/python/never-walk-alone) | Python | Easy | 2026-09-29 |
