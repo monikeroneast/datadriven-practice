@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-09-02 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-09-02 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-09-01 |
 | [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-09-01 |
