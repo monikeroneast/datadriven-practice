@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unique Values](./practice/python/unique-values) | Python | Easy | 2026-09-29 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-09-29 |
 | [Value Count](./practice/python/value-count) | Python | Easy | 2026-09-29 |
 | [Row Aggregates](./practice/python/row-aggregates) | Python | Medium | 2026-09-29 |
