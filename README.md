@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Code Expander](./practice/python/the-code-expander) | Python | Easy | 2026-10-13 |
 | [The Standing Fleet](./practice/sql/the-standing-fleet) | SQL | Easy | 2026-10-09 |
 | [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-10-09 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-09 |
