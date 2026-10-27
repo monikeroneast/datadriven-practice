@@ -12,7 +12,6 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [The Standing Fleet](./practice/spark/the-standing-fleet) | Spark | Easy | 2026-10-09 |
 | [The Standing Fleet](./practice/sql/the-standing-fleet) | SQL | Easy | 2026-10-09 |
 | [The Roads In](./practice/spark/the-roads-in) | Spark | Easy | 2026-10-09 |
-| [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-10-09 |
 | [The Quiet Drain](./practice/spark/the-quiet-drain) | Spark | Easy | 2026-10-09 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-09 |
 | [The Loudest Signals](./practice/spark/the-loudest-signals) | Spark | Easy | 2026-10-09 |
