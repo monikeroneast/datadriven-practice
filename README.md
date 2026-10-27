@@ -16,7 +16,6 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [The Loudest Signals](./practice/spark/the-loudest-signals) | Spark | Easy | 2026-10-09 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-10-09 |
 | [The Apprentices Still in the Forge](./practice/spark/the-apprentices-still-in-the-forge) | Spark | Easy | 2026-10-09 |
-| [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-10-09 |
 | [Service Roll Call](./practice/spark/service-roll-call) | Spark | Easy | 2026-10-09 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-09 |
 | [Recurring Error Types](./practice/spark/recurring-error-types) | Spark | Easy | 2026-10-09 |
