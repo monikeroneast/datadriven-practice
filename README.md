@@ -63,6 +63,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [Alert Hotspots by Service and Severity](./practice/spark/alert-hotspots-by-service-and-severity) | Spark | Easy | 2026-09-01 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-09-01 |
 | [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-09-01 |
+| [Data Repo Fix Commits](./practice/spark/data-repo-fix-commits) | Spark | Medium | 2026-09-01 |
 | [Budget-Friendly Products](./practice/spark/budget-friendly-products) | Spark | Easy | 2026-09-01 |
 | [Annual Cloud Spend Summary](./practice/spark/annual-cloud-spend-summary) | Spark | Easy | 2026-09-01 |
 | [All Infra Regions](./practice/spark/all-infra-regions) | Spark | Easy | 2026-09-01 |
