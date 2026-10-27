@@ -17,8 +17,9 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-09 |
 | [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-10-09 |
 | [Prime Real Estate](./practice/sql/prime-real-estate) | SQL | Easy | 2026-10-09 |
-| [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-09 |
+| [Prime Real Estate](./practice/spark/prime-real-estate) | Spark | Easy | 2026-10-09 |
 | [Node Summary Per Region](./practice/spark/node-summary-per-region) | Spark | Easy | 2026-10-09 |
+| [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-09 |
 | [Low-Engagement Sessions](./practice/spark/low-engagement-sessions) | Spark | Medium | 2026-10-09 |
 | [Low-Engagement Sessions](./practice/sql/low-engagement-sessions) | SQL | Medium | 2026-10-09 |
 | [High-Spend 2025 Campaigns](./practice/spark/high-spend-year-1-campaigns) | Spark | Easy | 2026-10-09 |
