@@ -21,7 +21,6 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [Service Roll Call](./practice/spark/service-roll-call) | Spark | Easy | 2026-10-09 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-09 |
 | [Recurring Error Types](./practice/spark/recurring-error-types) | Spark | Easy | 2026-10-09 |
-| [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-10-09 |
 | [Prime Real Estate](./practice/spark/prime-real-estate) | Spark | Easy | 2026-10-09 |
 | [Node Summary Per Region](./practice/spark/node-summary-per-region) | Spark | Easy | 2026-10-09 |
 | [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-09 |
