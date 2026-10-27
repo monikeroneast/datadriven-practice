@@ -23,7 +23,6 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [Low-Engagement Sessions](./practice/spark/low-engagement-sessions) | Spark | Medium | 2026-10-09 |
 | [High-Spend 2025 Campaigns](./practice/spark/high-spend-year-1-campaigns) | Spark | Easy | 2026-10-09 |
 | [Early 2026 Data Pipelines](./practice/spark/early-year-data-pipelines) | Spark | Easy | 2026-10-09 |
-| [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-10-09 |
 | [The High Mark](./practice/python/the-high-mark) | Python | Easy | 2026-09-29 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-09-29 |
 | [The Bug Spotter](./practice/python/the-bug-spotter) | Python | Easy | 2026-09-29 |
