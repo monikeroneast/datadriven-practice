@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| Solved | 2026-09-01 |
+| Solved | 2026-09-02 |
 | Accepted | on the first submission |
-| Time | 8 min |
+| Time | 2 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Spark Execution Model |
