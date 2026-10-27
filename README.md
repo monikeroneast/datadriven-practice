@@ -60,8 +60,9 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-09-01 |
 | [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-09-01 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-09-01 |
-| [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-09-01 |
+| [Budget-Friendly Products](./practice/spark/budget-friendly-products) | Spark | Easy | 2026-09-01 |
 | [Annual Cloud Spend Summary](./practice/spark/annual-cloud-spend-summary) | Spark | Easy | 2026-09-01 |
+| [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-09-01 |
 | [All Infra Regions](./practice/spark/all-infra-regions) | Spark | Easy | 2026-09-01 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-01 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-08-29 |
