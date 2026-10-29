@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Distinct Product Categories](./practice/spark/distinct-product-categories) | Spark | Easy | 2026-10-29 |
 | [Content Types by Creator](./practice/spark/content-types-by-creator) | Spark | Easy | 2026-10-29 |
 | [Clean Cache CDN Edges](./practice/spark/clean-cache-cdn-edges) | Spark | Easy | 2026-10-29 |
 | [The Code Expander](./practice/python/the-code-expander) | Python | Easy | 2026-10-13 |
