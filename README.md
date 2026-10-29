@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/monikr_on_east), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Heavy Namespaces](./practice/spark/heavy-namespaces) | Spark | Medium | 2026-10-29 |
 | [Find Deploy Authors](./practice/spark/find-deploy-authors) | Spark | Easy | 2026-10-29 |
 | [Distinct Product Categories](./practice/spark/distinct-product-categories) | Spark | Easy | 2026-10-29 |
 | [Content Types by Creator](./practice/spark/content-types-by-creator) | Spark | Easy | 2026-10-29 |
